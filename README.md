@@ -2,9 +2,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/moryesoham4-SR?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/moryesoham4-SR?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moryesoham4-SR&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moryesoham4-SR&layout=compact&theme=dark" />
 
 
 
