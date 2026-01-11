@@ -1,8 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=moryesoham4-SR)
 ![GitHub followers](https://img.shields.io/github/followers/moryesoham4-SR?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/moryesoham4-SR?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moryesoham4-SR&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moryesoham4-SR&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moryesoham4-SR&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moryesoham4-SR&layout=compact&theme=dark)
+
 
 
 
