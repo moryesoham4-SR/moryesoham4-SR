@@ -18,11 +18,11 @@
 I am a B.Sc Data Science student passionate about **data analysis, fintech, and digital payments**.  
 I enjoy working on **real-world datasets, dashboards, and survey-based research projects**.
 
-Currently working on projects related to:  
-- UPI & Cashless Economy  
-- Customer Service Analytics  
-- AI & Business Data  
+Currently working on projects related to:
 
+- 💳 UPI & Cashless Economy (Completed)
+- 🤖 Customer Service Analytics using AI (Hypothesis Testing in progress)
+  
 ---
 
 ## 📊 Featured Project  
