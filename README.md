@@ -1,3 +1,10 @@
+![Profile Views](https://komarev.com/ghpvc/?username=moryesoham4-SR)
+![GitHub followers](https://img.shields.io/github/followers/moryesoham4-SR?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/moryesoham4-SR?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+
+
+
 # Hi 👋 I'm Soham Morye  
 
 🎓 B.Sc Data Science Student | Data Analysis | FinTech Projects | Excel & Dashboarding  
