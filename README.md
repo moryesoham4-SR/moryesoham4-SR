@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Soham Morye  
 
-<!--
-**moryesoham4-SR/moryesoham4-SR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Data Science Student | Data Analysis | FinTech Projects | Excel & Dashboarding  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+I am a B.Sc Data Science student passionate about **data analysis, fintech, and digital payments**.  
+I enjoy working on **real-world datasets, dashboards, and survey-based research projects**.
+
+Currently working on projects related to:  
+- UPI & Cashless Economy  
+- Customer Service Analytics  
+- AI & Business Data  
+
+---
+
+## 📊 Featured Project  
+
+### 💳 Adoption of UPI and Cashless Economy in India  
+📌 A survey-based data analysis project that studies how UPI is transforming India into a cashless economy.  
+
+🔗 Repository:  
+https://github.com/moryesoham4-SR/UPI-Cashless-Economy-India  
+
+**Tools Used:**  
+Excel, Google Forms, Data Analysis, Dashboards  
+
+---
+
+## 🛠 Skills  
+- Microsoft Excel  
+- Data Analysis  
+- Dashboard Design  
+- Survey Analysis  
+- GitHub  
+- PowerPoint & Word  
+
+---
+
+## 📬 Connect with Me  
+- GitHub: https://github.com/moryesoham4-SR  
+
