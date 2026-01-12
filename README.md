@@ -21,8 +21,11 @@ I enjoy working on **real-world datasets, dashboards, and survey-based research 
 
 Currently working on projects related to:
 
-- 💳 UPI & Cashless Economy (Completed)
-- 🤖 Customer Service Analytics using AI (Hypothesis Testing in progress)
+💳 UPI & Cashless Economy in India — Survey-based data analysis & dashboard (Completed)
+
+✈️ British Airways – Customer Booking & Lounge Analysis — Excel-based business analytics (Completed)
+
+🤖 Customer Service Analytics using AI — Hypothesis testing & ethical impact study (In Progress)
   
 ---
 
