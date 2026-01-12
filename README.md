@@ -20,12 +20,13 @@ I am a B.Sc Data Science student passionate about **data analysis, fintech, and 
 I enjoy working on **real-world datasets, dashboards, and survey-based research projects**.
 
 Currently working on projects related to:
+Currently working on:
+- UPI & Cashless Economy (Completed)
+- British Airways Analytics (Completed)
+- Deloitte Workforce Equality Dashboard (Completed)
+- Tata Data Analytics Insights (Completed)
+- Customer Service Analytics using AI (In Progress)
 
-💳 UPI & Cashless Economy in India — Survey-based data analysis & dashboard (Completed)
-
-✈️ British Airways – Customer Booking & Lounge Analysis — Excel-based business analytics (Completed)
-
-🤖 Customer Service Analytics using AI — Hypothesis testing & ethical impact study (In Progress)
   
 ---
 
