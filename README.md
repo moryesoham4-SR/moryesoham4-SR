@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=moryesoham4-SR)
 ![GitHub followers](https://img.shields.io/github/followers/moryesoham4-SR?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/moryesoham4-SR?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moryesoham4-SR&show_icons=true&theme=tokyonight)
 Hi, I'm Soham 👋  
 Aspiring Data Analyst with hands-on experience in real-world projects across Finance, Consulting, and Business Analytics.  
 
