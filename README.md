@@ -6,9 +6,10 @@ Hi, I'm Soham 👋
 Aspiring Data Analyst with hands-on experience in real-world projects across Finance, Consulting, and Business Analytics.  
 
 💼 Skilled in:
-- Python, Excel, Data Analysis  
-- Data Visualization & Dashboarding  
-- Business Insights & Problem Solving  
+## 🛠 Skills
+![Python](https://skillicons.dev/icons?i=python)
+![Excel](https://skillicons.dev/icons?i=excel)
+![Git](https://skillicons.dev/icons?i=git)
 
 🚀 Projects:
 - UPI Cashless Economy Analysis  
