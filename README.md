@@ -2,6 +2,21 @@
 ![GitHub followers](https://img.shields.io/github/followers/moryesoham4-SR?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/moryesoham4-SR?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
+Hi, I'm Soham 👋  
+Aspiring Data Analyst with hands-on experience in real-world projects across Finance, Consulting, and Business Analytics.  
+
+💼 Skilled in:
+- Python, Excel, Data Analysis  
+- Data Visualization & Dashboarding  
+- Business Insights & Problem Solving  
+
+🚀 Projects:
+- UPI Cashless Economy Analysis  
+- British Airways Customer Insights  
+- Deloitte Equality Dashboard  
+- JP Morgan Risk Analysis  
+
+📫 Reach me: moryesoham4@gmail.com 
 
 
 
@@ -9,49 +24,6 @@
 
 
 
-# Hi  I'm Soham Morye  
-
- B.Sc Data Science Student | Data Analysis | FinTech Projects | Excel & Dashboarding  
-
----
-
- About Me  
-I am a B.Sc Data Science student passionate about **data analysis, fintech, and digital payments**.  
-I enjoy working on **real-world datasets, dashboards, and survey-based research projects**.
-
-Currently working on projects related to:
-Currently working on:
-- UPI & Cashless Economy (Completed)
-- British Airways Analytics (Completed)
-- Deloitte Workforce Equality Dashboard (Completed)
-- Tata Data Analytics Insights (Completed)
-- Customer Service Analytics using AI (In Progress)
-
-  
----
-
-##  Featured Project  
-
-###  Adoption of UPI and Cashless Economy in India  
- A survey-based data analysis project that studies how UPI is transforming India into a cashless economy.  
-
-🔗 Repository:  
-https://github.com/moryesoham4-SR/UPI-Cashless-Economy-India  
-
-**Tools Used:**  
-Excel, Google Forms, Data Analysis, Dashboards  
-
----
-
-##  Skills  
-- Microsoft Excel  
-- Data Analysis  
-- Dashboard Design  
-- Survey Analysis  
-- GitHub  
-- PowerPoint & Word  
-
----
 
 ##  Connect with Me  
 - GitHub: https://github.com/moryesoham4-SR  
