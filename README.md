@@ -3,7 +3,6 @@
   # Hi there, I'm Soham Morye 👋
   ### 📊 B.Sc Data Science Student | Aspiring Data Analyst & ML Practitioner
   
-  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moryesoham4@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eventledger-web.vercel.app)
 
@@ -61,7 +60,7 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🎓 **[Dropout-Disengagement-Risk-Classifier](https://github.com/moryesoham4-SR/Dropout-Disengagement-Risk-Classifier)** | Machine learning classification model designed to detect early student disengagement and predict academic dropout risks. | `Python` `Scikit-Learn` `EDA` |
-| 🤖 **[AI-Assistant-Conversation-Analytics](https://github.com/moryesoham4-SR/AI-Assistant-Conversation-Analytics)** | In-depth conversational analytics and NLP insights analyzing interaction trends, user behavior, and response dynamics. | `Jupyter` `Python` `NLP` |
+| 🤖 **[AI-Assistant-Conversation-Analytics](https://github.com/moryesoham4-SR/AI-Assistant-Conversation-Analytics)** | In-depth conversational analytics evaluating interaction trends, user behavior patterns, and response dynamics. | `Jupyter` `Python` `Analytics` |
 | ⚖️ **[Responsible Data Science Studio](https://github.com/moryesoham4-SR/-N-tiAI-Responsible-Data-Science-Studio)** | Framework for evaluating fairness, model bias, and responsible machine learning workflows. | `Python` `Data Ethics` `ML` |
 | 🌐 **[EventLedger](https://github.com/moryesoham4-SR/eventledger-web)** | Full-stack ledger and event management platform deployed on Vercel ([Live Demo](https://eventledger-web.vercel.app)). | `JavaScript` `API` `Vercel` |
 | 📊 **[Socio-Economic Analytics](https://github.com/moryesoham4-SR/Socio-Economy)** | Quantitative exploratory data analysis examining socio-economic indicators and cross-variable correlations. | `Python` `Data Analysis` |
