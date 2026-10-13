@@ -84,5 +84,4 @@
 
 <div align="center">
   <p>⭐️ <i>Thanks for visiting my profile! Feel free to connect or explore my repositories.</i> ⭐️</p>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoryesoham4-SR&count_bg=%23388BFD&title_bg=%231f2328&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
 </div>
