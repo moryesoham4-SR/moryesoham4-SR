@@ -3,6 +3,7 @@
   # Hi there, I'm Soham Morye 👋
   ### 📊 B.Sc Data Science Student | Aspiring Data Analyst & ML Practitioner
   
+  
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moryesoham4@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eventledger-web.vercel.app)
 
@@ -83,5 +84,6 @@
 ---
 
 <div align="center">
-  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=moryesoham4-SR&style=flat-square&color=blue" alt="Profile Views" /></sub>
+  <p>⭐️ <i>Thanks for visiting my profile! Feel free to connect or explore my repositories.</i> ⭐️</p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoryesoham4-SR&count_bg=%23388BFD&title_bg=%231f2328&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true" alt="Profile Views" />
 </div>
