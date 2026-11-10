@@ -1,87 +1,20 @@
-<div align="center">
+💫 About Me:
+Focused on applied machine learning, computer vision, and data engineering. Creator of AgroVision AI and NSE Stock Analyzer. Experienced in building lightweight, high-performance web applications using Python, FastAPI, and Streamlit, backed by cloud architectures and relational databases. Always experimenting at the intersection of data, scalable code, and real-world utility.
 
-  # Hi there, I'm Soham Morye 👋
-  ### 📊 B.Sc Data Science Student | Aspiring Data Analyst & ML Practitioner
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moryesoham4@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eventledger-web.vercel.app)
-
-  <p align="center">
-    📍 Mumbai, India &nbsp;|&nbsp; 
-    🎯 Exploring FinTech, Business Analytics & Ethical AI &nbsp;|&nbsp; 
-    💼 Open to Internships & Collaborative Roles
-  </p>
-
-</div>
-
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soham Morye) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=moryesoham4-SR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=moryesoham4-SR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=moryesoham4-SR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=moryesoham4-SR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=moryesoham4-SR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-
-### 🚀 About Me
-
-- 🎓 Currently pursuing a **B.Sc in Data Science** with a focus on statistical analysis and predictive modeling.
-- 💡 Experienced in building end-to-end data pipelines, exploratory data analysis (EDA), and machine learning classifiers.
-- 🛠️ Interested in solving practical business problems in **Finance, Consulting, and Decision Intelligence**.
-- 💬 Ask me about **Python, SQL, Feature Engineering, and Applied ML**.
-- ⚡ Fun fact: Passionate about responsible, explainable AI and data storytelling.
-
----
-
-### 🛠️ Technical Toolbox
-
-#### 💻 Programming & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="28" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
-</p>
-
-#### 📈 Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="28" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="28" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="28" alt="Seaborn" />
-</p>
-
-#### ⚙️ Developer Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="28" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="28" alt="Vercel" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🎓 **[Dropout-Disengagement-Risk-Classifier](https://github.com/moryesoham4-SR/Dropout-Disengagement-Risk-Classifier)** | Machine learning classification model designed to detect early student disengagement and predict academic dropout risks. | `Python` `Scikit-Learn` `EDA` |
-| 🤖 **[AI-Assistant-Conversation-Analytics](https://github.com/moryesoham4-SR/AI-Assistant-Conversation-Analytics)** | In-depth conversational analytics evaluating interaction trends, user behavior patterns, and response dynamics. | `Jupyter` `Python` `Analytics` |
-| ⚖️ **[Responsible Data Science Studio](https://github.com/moryesoham4-SR/-N-tiAI-Responsible-Data-Science-Studio)** | Framework for evaluating fairness, model bias, and responsible machine learning workflows. | `Python` `Data Ethics` `ML` |
-| 🌐 **[EventLedger](https://github.com/moryesoham4-SR/eventledger-web)** | Full-stack ledger and event management platform deployed on Vercel ([Live Demo](https://eventledger-web.vercel.app)). | `JavaScript` `API` `Vercel` |
-| 📊 **[Socio-Economic Analytics](https://github.com/moryesoham4-SR/Socio-Economy)** | Quantitative exploratory data analysis examining socio-economic indicators and cross-variable correlations. | `Python` `Data Analysis` |
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moryesoham4-SR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moryesoham4-SR&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=moryesoham4-SR&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <p>⭐️ <i>Thanks for visiting my profile! Feel free to connect or explore my repositories.</i> ⭐️</p>
-</div>
+![](https://komarev.com/ghpvc/?username=moryesoham4-SR&icon=0&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
